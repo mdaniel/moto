@@ -13,6 +13,7 @@ prompt_toolkit
 
 # type stubs that mypy doesn't install automatically
 botocore-stubs
+boto3-stubs[all]
 types-requests
 types-python-dateutil
 types-PyYAML
